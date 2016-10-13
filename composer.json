@@ -1,0 +1,16 @@
+{
+  "name": "rebel-l/expermiment-tailor",
+  "description": "Just an experiment with tailor.",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Rebel-L",
+      "email": "dj@rebel-l.net"
+    }
+  ],
+  "type": "project",
+  "require-dev": {
+    "rebel-l/sisa": "1.7.*"
+  }
+}
