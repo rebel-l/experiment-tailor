@@ -1,3 +1,8 @@
+# directories
 .idea/
 .vagrant
+node_modules
 vendor
+
+# files
+npm-debug.log

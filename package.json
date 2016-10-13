@@ -1,0 +1,22 @@
+{
+  "name": "experiment-tailor",
+  "version": "1.0.0",
+  "description": "Just an experiment with tailor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebel-l/experiment-tailor.git"
+  },
+  "author": "Rebel-L",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebel-l/experiment-tailor/issues"
+  },
+  "homepage": "https://github.com/rebel-l/experiment-tailor#readme",
+  "dependencies": {
+    "node-tailor": "1.0.*"
+  }
+}
